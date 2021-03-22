@@ -1,4 +1,5 @@
 module.exports = {
+    base: "/svg_page/",
     title: "Svg-Note",
     description: 'svg note',
     themeConfig: {
